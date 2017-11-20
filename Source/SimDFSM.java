@@ -1,7 +1,5 @@
 
-/* Name:Gautham Brahma Ponnaganti
- * Course Number:CS5413
- * Assignment Numeber:1
+/* Author:Gautham Brahma Ponnaganti
  * Short Description:This program takes a file containing transition table
  * ,alphabets and final states as input and indicates weather a input,
  * given as a parameter, is accepted by it or not. We print yes or no 

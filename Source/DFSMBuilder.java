@@ -1,6 +1,4 @@
-/* Name:Gautham Brahma Ponnaganti
- * Course Number:CS5413
- * Assignment Numeber:1
+/* Author:Gautham Brahma Ponnaganti
  * Short Description:Given a string we generate a transition table for DFA that 
  * accepts the string. Here the algorithm used is KMP which describes how to back 
  * track in each state for failure cases. */

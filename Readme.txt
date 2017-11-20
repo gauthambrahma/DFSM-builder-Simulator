@@ -5,3 +5,5 @@ programs with .class extentions
 
 running DFSMBuilder will generate an input file with given name which can 
 be used to test SimDFSM
+
+More Description in source files
